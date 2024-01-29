@@ -4,7 +4,7 @@ This project is the recreation of the following [tutorial](https://www.youtube.c
 
 To run the project, go to the ```BuberBreakfast``` folder and run the command ```dotnet run```.
 
-In the folder ```Requests/Breakfast``` contains requests that can be used to test the API.
+The folder ```Requests/Breakfast``` contains requests that can be used to test the API.
 
 # [Documentation](Docs/Api.md)
 
